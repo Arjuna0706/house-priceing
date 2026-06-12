@@ -125,7 +125,7 @@ jupyter notebook House_Priceing.ipynb
 ```
 .
 ├── House_Priceing.ipynb      # Main analysis notebook
-├── kc_house_data_NaN.csv      # King County housing dataset
+├── kc_house_data.csv      # King County housing dataset
 └── README.md                  # Project documentation
 ```
 
